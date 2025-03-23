@@ -3,7 +3,7 @@ package KienThucCore.OOP.abstraction;
 //tính trừu tượng
 //ẩn đi các chi tiết không cần thiết, chỉ tập trung vào những gì quan trọng
 //có thể thực hiện bằng
-//lớp trừu tượng (abstract class)
+//abstract class
 //interface
 
 //Lợi ích: hạn chế phụ thuộc giữa các thành phần, dễ mở rộng
